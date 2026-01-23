@@ -1,3 +1,3 @@
-hello Madhu!
-This is my first day!
-User 2 working!
+provider "aws" {
+region="ap-south-1"
+}
